@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "dependencies": {
+        "jscs": "^2.2.1"
+    },
+    "scripts": {
+         "lint": "jscs *.js"
+    }
+}
