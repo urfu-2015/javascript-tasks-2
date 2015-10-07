@@ -45,7 +45,7 @@ module.exports.importFromCsv = function importFromCsv(filename) {
 /*
    Функция вывода всех телефонов в виде ASCII (задача со звёздочкой!).
 */
-module.exports.showTable = function showTable(filename) {
+module.exports.showTable = function showTable() {
 
     // Ваша чёрная магия здесь
 

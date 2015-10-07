@@ -31,5 +31,5 @@ phoneBook.showTable();
 
 
 // Экспортируем записи, пример файла рядом
-phoneBook.export('./backup.csv');
+phoneBook.importFromCsv('./backup.csv');
 // Добавлено 4 контакта
