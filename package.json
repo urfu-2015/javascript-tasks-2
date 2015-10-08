@@ -4,6 +4,6 @@
         "jscs": "^2.2.1"
     },
     "scripts": {
-         "lint": "jscs *.js"
+         "lint": "jscs ."
     }
 }
